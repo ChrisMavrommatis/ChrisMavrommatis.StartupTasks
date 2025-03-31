@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # 17
 VisualStudioVersion = 17.11.35111.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StartupTasks", "src\StartupTasks\StartupTasks.csproj", "{A2D4988D-3DA9-433C-B197-20601A36D26A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChrisMavrommatis.StartupTasks", "src\ChrisMavrommatis.StartupTasks\ChrisMavrommatis.StartupTasks.csproj", "{A2D4988D-3DA9-433C-B197-20601A36D26A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CC31DBBD-1ECF-40D2-94C8-FB4CCDA62C05}"
 EndProject
