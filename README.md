@@ -2,6 +2,10 @@
 
 `ChrisMavrommatis.StartupTasks` is a .NET library that enables you to define and execute a set of tasks during the startup phase of your ASP.NET Core application, just before the web host begins running.
 
+> [!Warning]
+>
+> This project is no longer maintained.
+
 ## Installation
 
 Install the package via NuGet Package Manager
